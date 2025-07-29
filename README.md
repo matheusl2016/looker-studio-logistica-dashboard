@@ -33,7 +33,10 @@ DATE_DIFF(Data previsão, Data de entrega)
 
 4. Visualizações criadas:
 Cartões de Visão Geral: Entregas no prazo, em atraso e veículos disponíveis
+
 Gráfico de Barras: Média de estoque por ano
+
 Gráfico de Linhas: Média de dias de entrega (S2D) ao longo do tempo
+
 Mapa Coroplético (Heatmap): Pedidos por estado (BR)
-Relatório Mobile: Dashboard responsivo 100% ajustado para celulares
+
